@@ -4,10 +4,10 @@ function App() {
   return (
     <div className="wrapper">
       <div>
-        <img src="https://i.imgur.com/WqP3vBT.png" className="lbdk"/>
+        <img src="https://i.imgur.com/Ux5pj1Y.png" className="lbdk"/>
       </div>
       <div>
-        <p className="xalepon">xalepon</p>
+        <p className="xalepon"></p>
       </div>
     </div>
   );
