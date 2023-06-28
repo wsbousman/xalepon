@@ -7,7 +7,7 @@ function App() {
         <img src="https://i.imgur.com/Ux5pj1Y.png" className="lbdk"/>
       </div>
       <div>
-        <p className="xalepon"></p>
+        <p className="xalepon">test</p>
       </div>
     </div>
   );
