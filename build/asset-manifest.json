@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xalepon/static/css/main.9921c2ce.css",
+    "main.js": "/xalepon/static/js/main.09a66b01.js",
+    "static/js/787.963595b8.chunk.js": "/xalepon/static/js/787.963595b8.chunk.js",
+    "index.html": "/xalepon/index.html",
+    "main.9921c2ce.css.map": "/xalepon/static/css/main.9921c2ce.css.map",
+    "main.09a66b01.js.map": "/xalepon/static/js/main.09a66b01.js.map",
+    "787.963595b8.chunk.js.map": "/xalepon/static/js/787.963595b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9921c2ce.css",
+    "static/js/main.09a66b01.js"
+  ]
+}
