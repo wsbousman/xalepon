@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="wrapper">
       <div>
-        <img src="https://i.imgur.com/Ux5pj1Y.png" className="lbdk"/>
+        <img src="https://i.imgur.com/4t1gM8V.png" className="lbdk"/>
       </div>
       <div>
         <p className="xalepon"></p>
