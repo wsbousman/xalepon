@@ -6,7 +6,7 @@ function Process() {
   return (
       <section>
       <div className="wrapper">
-        <p>The most common questions asked when I mention that I make knives revolve around the heat treating process.</p>
+        <p>The most common questions asked when I mention I make knives revolve around the heat treating process.</p>
       </div>
       </section>
   )
