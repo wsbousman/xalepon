@@ -1,11 +1,11 @@
 import React from 'react'
-{/*import images*/}
+import headerF from "../../assets/HeaderF.png";
 
 function Header() {
 
   return (
     <div>
-        <img src="https://i.imgur.com/4t1gM8V.png" className="lbdk" alt="knafe"/>
+        <img src={headerF} className="lbdk" alt="knafe"/>
     </div>
   )
 }
