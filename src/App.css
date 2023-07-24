@@ -18,6 +18,16 @@
   color:rgb(143, 143, 143)
 }
 
+.h2 {
+  font-size: 30px;
+  color:rgb(143, 143, 143)
+}
+
+.h3 {
+  font-size: 22px;
+  color:rgb(143, 143, 143)
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
