@@ -29,10 +29,10 @@ class App extends Component {
     <div className="wrapper">
       <p className="h2">I make knives. Here's some stuff I've made.</p>
     </div>
-    <div className="wrapper">
+    <div className="img">
       <img src="https://i.imgur.com/eonphlo.png" alt="Malocchio"/>
     </div>
-    <div className="wrapper">
+    <div className="img">
       <img src="https://i.imgur.com/n9omRMT.png" alt="Lout"/>
     </div>
       <img src="https://i.imgur.com/DTv82Pb.png" alt="Akribos"/>
