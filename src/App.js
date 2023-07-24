@@ -10,6 +10,7 @@ class App extends Component {
   conditional = {value: true}
   render() {
   return (
+  <div className="wrapper">
     <div className="wrapper">
       <div className="links">
       <Router>
@@ -24,11 +25,16 @@ class App extends Component {
       {/*footer*/}
       </Router>
       </div>
-      <p className="h2">
-        I make knives. Here's some stuff I've made. 
-      </p>
+    </div>
+    <div className="wrapper">
+      <p className="h2">I make knives. Here's some stuff I've made.</p>
+    </div>
+    <div className="wrapper">
       <img src="https://i.imgur.com/eonphlo.png" alt="Malocchio"/>
+    </div>
+    <div className="wrapper">
       <img src="https://i.imgur.com/n9omRMT.png" alt="Lout"/>
+    </div>
       <img src="https://i.imgur.com/DTv82Pb.png" alt="Akribos"/>
       <p className="h3">I started off just kind of messing around, making handles for cheap pre-made knife blanks:</p>
       <img src="https://i.imgur.com/PKCpahl.png" alt="Buffalo"/>

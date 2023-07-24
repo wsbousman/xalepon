@@ -13,11 +13,6 @@
   }
 }
 
-.xalepon {
-  font-size: 30px;
-  color:rgb(143, 143, 143)
-}
-
 .h2 {
   font-size: 30px;
   color:rgb(143, 143, 143)
@@ -34,6 +29,7 @@
   align-items: center;
   justify-content: center;
   background-color: rgb(0, 0, 0);
+  padding: 0px 0px 0px 10px;
 }
 
 .App-header {
