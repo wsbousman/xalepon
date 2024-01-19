@@ -5,7 +5,7 @@ function Header() {
 
   return (
     <div>
-        <img src="https://i.imgur.com/4t1gM8V.png" className="lbdk" alt="knafe"/>
+        <img className="lbdk" src="https://i.imgur.com/wZUy0Mp.png" alt="knafe"/>
     </div>
   )
 }
