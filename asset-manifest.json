@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xalepon/static/css/main.6c692673.css",
+    "main.css": "/xalepon/static/css/main.b78ee6e3.css",
     "main.js": "/xalepon/static/js/main.5c404988.js",
     "static/js/787.963595b8.chunk.js": "/xalepon/static/js/787.963595b8.chunk.js",
     "index.html": "/xalepon/index.html",
-    "main.6c692673.css.map": "/xalepon/static/css/main.6c692673.css.map",
+    "main.b78ee6e3.css.map": "/xalepon/static/css/main.b78ee6e3.css.map",
     "main.5c404988.js.map": "/xalepon/static/js/main.5c404988.js.map",
     "787.963595b8.chunk.js.map": "/xalepon/static/js/787.963595b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c692673.css",
+    "static/css/main.b78ee6e3.css",
     "static/js/main.5c404988.js"
   ]
 }
